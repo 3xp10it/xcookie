@@ -1,0 +1,21 @@
+{
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "CopyCookie",
+    "default_popup": "cookies.html",
+    "default_icon": {
+      "19": "icons/copycookie.png",
+      "38": "icons/copycookie.png"
+    }
+  },
+  "description": "List cookies in the active tab.",
+  "icons": {
+    "48": "icons/copycookie.png",
+    "96": "icons/copycookie.png"
+  },
+  "homepage_url": "http://3xp10it.cc",
+  "manifest_version": 2,
+  "name": "xcookie",
+  "version": "1.1",
+  "permissions": ["cookies","<all_urls>","tabs"]
+}
